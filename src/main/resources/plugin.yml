@@ -1,0 +1,9 @@
+name: Nv
+version: @version@
+main: com.chaca142.nv.Nv
+api-version: 1.13
+authors: [chaca142]
+
+commands:
+  nv:
+    description: "/nv add Night_Vision or remove Night_Vision"
